@@ -1,2 +1,2 @@
 # blue
-various blue related notes
+various blue team related notes
